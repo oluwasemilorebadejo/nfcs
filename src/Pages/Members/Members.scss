@@ -1,0 +1,22 @@
+.members {
+  // border: 1px solid red;
+  // overflow-x: auto;
+  padding: 0 115px 40px;
+
+  @media screen and (max-width: 768px) {
+    padding: 0 5% 10px;
+  }
+
+  &Header {
+    margin-top: 1rem;
+    @media screen and (max-width: 768px){
+      font-size: 1.5rem;
+    }
+  }
+
+  &Select {
+    margin: 2rem 0;
+    padding: 5px;
+    margin-left: 5px;
+  }
+}
