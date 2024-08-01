@@ -2,7 +2,7 @@
 
 The NFCS OAU(Obafemi Awolowo University) Website is a platform designed to foster collaboration and streamline communication within the NFCS OAU Community. This web application provides an organized hub for team leaders to efficiently manage their team members' information and highlights daily birthday celebrations.
 
-## About this Project
+## About the Project
 
 ### What was my motivation?
 
